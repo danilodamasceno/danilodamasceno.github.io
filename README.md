@@ -7,4 +7,8 @@ Two proposals were presented, one with qlik sense, and the other open source wit
 
 <h2> Qlik Sense Version </h2>
 
+<center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/data-flow-qs.PNG?raw=true" width="600"></center>
+
+
+
 
