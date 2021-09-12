@@ -24,7 +24,7 @@ In this Dashboard we carry out monthly follow-up of active and suspected cases.
 
 <center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/qs-model.PNG?raw=true" width="600"></center>
 
-In this project I used the star scheme created by Dr. Ralph Kimball. We use a fact table and three dimension tables. This model has low maintenance and good performance.
+In this project, I used the star scheme created by Dr. Ralph Kimball. I used one fact table and three dimension tables. This model has low maintenance and good performance.
 
 <h2> Open Source Version (Metabase) </h2>
 
