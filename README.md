@@ -20,7 +20,17 @@ In this Dashboard we monitor: active, suspicious and recovered cases.
 <center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/obras-dash-2.PNG?raw=true" width="600"></center>
 In this Dashboard we carry out monthly follow-up of active and suspected cases.
 
+<h3> Data Model </h3>
+
+<center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/qs-model.PNG?raw=true" width="600"></center>
+
+In this project we used the star scheme created by Dr. Ralph Kimball. We use a fact table and three dimension tables. This model has low maintenance and good performance.
+
 <h2> Open Source Version (Metabase) </h2>
+
+<center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/data-flow-mb.PNG?raw=true" width="600"></center>
+
+
 
 
 
