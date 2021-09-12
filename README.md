@@ -30,6 +30,8 @@ In this project we used the star scheme created by Dr. Ralph Kimball. We use a f
 
 <center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/data-flow-mb.PNG?raw=true" width="600"></center>
 
+The open source proposal was not developed, however it was presented. Data processing would be performed in python scripts, modeling and data storage would be performed in PostgreSQL. The automation of data loading would be done with CRON and Dashboards in the Metabase tool.
+
 
 
 
