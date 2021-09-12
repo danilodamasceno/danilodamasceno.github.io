@@ -15,6 +15,14 @@ Data is extracted from spreadsheets and a MySQL database. Data is organized, cle
 <center><img src="https://raw.githubusercontent.com/danilodamasceno/employees-covid-19/main/images/dashboard.PNG?raw=true" width="600"></center>
 In this Dashboard we monitor: active, suspicious and recovered cases.
 
+<h3> Qlik Sense - Dashboard 2 </h3>
+
+<center><img src="https://github.com/danilodamasceno/employees-covid-19/blob/main/images/obras-dash-2.PNG?raw=true" width="600"></center>
+In this Dashboard we carry out monthly follow-up of active and suspected cases.
+
+<h2> Open Source Version (Metabase) </h2>
+
+
 
 
 
