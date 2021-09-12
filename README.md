@@ -1,2 +1,2 @@
 # danilodamasceno.github.io
-My profects
+My projects
